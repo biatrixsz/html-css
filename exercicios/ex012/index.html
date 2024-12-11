@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos em HTML5</title>
+</head>
+<body>
+    <h1>Inserindo vídeos hospedados localmente</h1>
+    <p>Este vídeo está hospedado no meu própio servidor.</p>
+
+    <video src="midia/meu-videomod.mp4" width="560" controls></video>
+
+    <!-- MP4 OGV  WEBM M4V-->
+
+    <video width="560"controls poster="imagens/outono.jpg">
+        <source src="midia/meu-videomod.mp4" type="video/mp4">
+        <source src="midia/meuvideomod.m4v" type="video/m4v">
+        <!--Em diante.../ obs: a ordem tem total influência, primeiro vai carregar o mp4, se não for compatível o m4v...-->
+        <p>Seu navegador não tem compatibilidade com reprodução de vídeos.</p>
+    </video>
+
+    <h1>Inserindo vídeos do Youtube</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/YkGRfvn3RUU?si=mnd-aHTW6pT3bG4N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <h1>Inserindo vídeos do Vimeo</h1>
+    <iframe src="https://player.vimeo.com/video/1011216379?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="OVERNIGHT_Chenglin Xie"></iframe>
+</body>
+</html>
