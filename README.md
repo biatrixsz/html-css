@@ -7,3 +7,4 @@
  DIA 2 - ESTUDEI
  DIA 3 - NÃO 
  DIA 4 - NÃO
+ DIA 5 - NÃO
