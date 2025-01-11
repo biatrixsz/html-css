@@ -9,3 +9,8 @@
  DIA 4 - NÃO
  DIA 5 - NÃO
  DIA 6 - NÃO 
+ DIA 7 - NÃO
+ DIA 8 - SIM
+ DIA 9 - SIM
+ 10 - NÃO 
+ 11 - NÃO
