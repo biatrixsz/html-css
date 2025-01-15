@@ -16,3 +16,5 @@
  11 - NÃO
  12 - NÃO
  DIA 13 - NÃO
+ DIA 14 - NÃO
+ DIA 15 - SIM (depois verificar o cabeçalho fixo)
