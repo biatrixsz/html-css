@@ -18,3 +18,4 @@
  DIA 13 - NÃO
  DIA 14 - NÃO
  DIA 15 - SIM (depois verificar o cabeçalho fixo)
+ DIA 16 - NÃO
