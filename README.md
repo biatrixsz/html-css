@@ -22,3 +22,4 @@
  DIA 17 - SIM
  DIA 18 - NÃO
  DIA 19 - NÃO
+ DIA 20 - SIM
