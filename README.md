@@ -24,3 +24,4 @@
  DIA 19 - NÃO
  DIA 20 - SIM
  DIA 21- SIM
+ DIA 22 - SIM
