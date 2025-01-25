@@ -1,7 +1,7 @@
 # html-css
  Curso de HTML5 e CSS3
 
- Aprendendo a programar, continue firme!. Feliz 2025 para nós !!.
+ Aprendendo a programar, continue firme!
 
  DIA 1 - NÃO
  DIA 2 - ESTUDEI
