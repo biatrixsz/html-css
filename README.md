@@ -1,7 +1,7 @@
 # html-css
  Curso de HTML5 e CSS3
 
- Aprendendo a programar, continue firme!
+ Aprendendo a programar
 
  DIA 1 - NÃO
  DIA 2 - ESTUDEI
@@ -29,3 +29,8 @@
  DIA 24 - NAO
  DIA 25 - NAO
  DIA 26 - SIM
+ DIA 27 - SIM
+ DIA 28 - NÃO
+ DIA 29 - NÃO
+ DIA 30 - NÃO
+ DIA 31 - SIM
